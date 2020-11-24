@@ -1,7 +1,7 @@
 import pyttsx3
 import PyPDF2
 
-book=open('oop.pdf','rb')
+book=open('oop.pdf(FILENAME)','rb')
 
 pdfReader=PyPDF2.PdfFileReader(book)
 
